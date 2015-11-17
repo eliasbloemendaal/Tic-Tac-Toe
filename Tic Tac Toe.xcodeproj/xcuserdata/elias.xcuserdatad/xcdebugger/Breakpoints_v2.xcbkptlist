@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Tic Tac Toe/ViewController.swift"
-            timestampString = "468526257.522685"
+            timestampString = "469483523.773511"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "126"
-            endingLineNumber = "126"
+            startingLineNumber = "219"
+            endingLineNumber = "219"
             landmarkName = "button1(_:)"
             landmarkType = "5">
          </BreakpointContent>
@@ -26,13 +26,199 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Tic Tac Toe/ViewController.swift"
-            timestampString = "468526257.522685"
+            timestampString = "469483523.773511"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "245"
-            endingLineNumber = "245"
+            startingLineNumber = "377"
+            endingLineNumber = "377"
             landmarkName = "button8(_:)"
             landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tic Tac Toe/ViewController.swift"
+            timestampString = "469410521.893038"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tic_Tac_Toe.ViewController.ticImg2.getter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImageView&gt;"
+                  moduleName = "Tic Tac Toe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elias/Dropbox/apps.1/Tic%20Tac%20Toe/Tic%20Tac%20Toe/ViewController.swift"
+                  timestampString = "469380729.240855"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tic_Tac_Toe.ViewController.ticImg2.setter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImageView&gt;"
+                  moduleName = "Tic Tac Toe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elias/Dropbox/apps.1/Tic%20Tac%20Toe/Tic%20Tac%20Toe/ViewController.swift"
+                  timestampString = "469380729.241188"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tic_Tac_Toe.ViewController.ticImg2.materializeForSet : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImageView&gt;"
+                  moduleName = "Tic Tac Toe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elias/Dropbox/apps.1/Tic%20Tac%20Toe/Tic%20Tac%20Toe/ViewController.swift"
+                  timestampString = "469380729.241393"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tic_Tac_Toe.ViewController.init (Tic_Tac_Toe.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; Tic_Tac_Toe.ViewController"
+                  moduleName = "Tic Tac Toe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elias/Dropbox/apps.1/Tic%20Tac%20Toe/Tic%20Tac%20Toe/ViewController.swift"
+                  timestampString = "469380729.241589"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "409">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tic_Tac_Toe.ViewController.init (Tic_Tac_Toe.ViewController.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Tic_Tac_Toe.ViewController&gt;"
+                  moduleName = "Tic Tac Toe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elias/Dropbox/apps.1/Tic%20Tac%20Toe/Tic%20Tac%20Toe/ViewController.swift"
+                  timestampString = "469380729.241798"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "341">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tic Tac Toe/ViewController.swift"
+            timestampString = "469410521.893038"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tic_Tac_Toe.ViewController.ticImg6.getter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImageView&gt;"
+                  moduleName = "Tic Tac Toe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elias/Dropbox/apps.1/Tic%20Tac%20Toe/Tic%20Tac%20Toe/ViewController.swift"
+                  timestampString = "469408752.275171"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tic_Tac_Toe.ViewController.ticImg6.setter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImageView&gt;"
+                  moduleName = "Tic Tac Toe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elias/Dropbox/apps.1/Tic%20Tac%20Toe/Tic%20Tac%20Toe/ViewController.swift"
+                  timestampString = "469408752.275627"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tic_Tac_Toe.ViewController.ticImg6.materializeForSet : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImageView&gt;"
+                  moduleName = "Tic Tac Toe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elias/Dropbox/apps.1/Tic%20Tac%20Toe/Tic%20Tac%20Toe/ViewController.swift"
+                  timestampString = "469408752.275928"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tic_Tac_Toe.ViewController.init (Tic_Tac_Toe.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; Tic_Tac_Toe.ViewController"
+                  moduleName = "Tic Tac Toe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elias/Dropbox/apps.1/Tic%20Tac%20Toe/Tic%20Tac%20Toe/ViewController.swift"
+                  timestampString = "469408752.276228"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "501">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tic_Tac_Toe.ViewController.init (Tic_Tac_Toe.ViewController.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Tic_Tac_Toe.ViewController&gt;"
+                  moduleName = "Tic Tac Toe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elias/Dropbox/apps.1/Tic%20Tac%20Toe/Tic%20Tac%20Toe/ViewController.swift"
+                  timestampString = "469408752.276522"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "433">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
